@@ -12,7 +12,9 @@ import ListExamp from './ListExample';
 function App() {
   return (
     <div className="App">
-      <ListExamp/>
+      <Profile/>
+      <ProfileExample/>
+      <Foot/>
     </div>
   );
 }
